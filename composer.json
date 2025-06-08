@@ -19,7 +19,7 @@
     "homepage": "https://github.com/dbfx/laravel-strapi",
     "require": {
         "php": "^8.0",
-        "illuminate/contracts": "^8.37 || ^9.0 || ^10",
+        "illuminate/contracts": "^8.37 || ^9.0 || ^10 || ^11",
         "laravel/framework": "^8 || ^9 || ^10",
         "spatie/laravel-package-tools": "^1.4.3"
     },
